@@ -60,3 +60,39 @@ h1 {
     margin-top: 5%;
     background-position: right;
 }
+
+.tmi {
+    display: flex;
+    padding: 5%;
+}
+
+h2 {
+    font-size: 30px
+}
+
+.cc {
+    width: 45%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 15px;
+    box-shadow: 10px 10px 30px black;
+}
+
+.tmi {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#jan {
+    border-left: 7px solid tomato;
+}
+
+#jaan {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+
+}
