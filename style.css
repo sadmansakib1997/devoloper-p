@@ -13,6 +13,7 @@ h1 {
 
 .first {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .a {
@@ -21,7 +22,7 @@ h1 {
 }
 
 .a img {
-    width: 80%;
+    width: 100%;
 }
 
 .button {
@@ -36,4 +37,26 @@ h1 {
 .first {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.two {
+    display: flex;
+}
+
+.b {
+    width: 50%;
+    padding: 5%;
+}
+
+.b img {
+    width: 90%;
+
+}
+
+.two {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    margin-top: 5%;
+    background-position: right;
 }
